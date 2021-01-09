@@ -27,3 +27,4 @@ Screenshots:<br>
 
 </table>
 ICON
+SPLASH
