@@ -25,4 +25,3 @@ Screenshots:<br>
 
 </tr>
 
-</table>
